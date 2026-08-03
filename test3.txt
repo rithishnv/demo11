@@ -1,2 +1,1 @@
-i have added branch . what is git??
 this is a conflict
