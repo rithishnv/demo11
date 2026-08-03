@@ -1,6 +1,8 @@
-public class calculator {
+public class Calculator {
 
     public int add(int a, int b) {
-        return Math.addExact(a, b);
+        System.out.println("Adding numbers");
+        return a + b;
+
     }
 }
